@@ -1,0 +1,6 @@
+Fecha terminación: 12/01/2022
+Duración: 38 días
+Trabajo: 457,25 horas
+Costo: 15.172,50 euros
+Lista tareas ruta crítica: A, B, C, F, G, J, M, O
+Taras sobreasignadas: Director de Proyectos (DP)
