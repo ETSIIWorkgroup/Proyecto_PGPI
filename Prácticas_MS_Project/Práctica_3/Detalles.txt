@@ -1,0 +1,11 @@
+76 mod 30 -> 16 + 1 = 17 Nov 2021
+
+Fecha de terminación: 15/12/2022
+
+Duración/Trabajo: 278,13d / 4.254,75h
+
+Costo: 162.443,25€
+
+Indicar las tareas sobreasignadas: 5 (Estudio), 14 (Instalación del software), 15 (Formación de usuarios)
+
+Posible solución sin que se posponga la finalización del proyecto:
