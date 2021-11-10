@@ -42,4 +42,3 @@ Proyecto para Planificación y Gestión de Proyectos Informáticos - Universidad
 ![38](https://github.com/ETSIIWorkgroup/Proyecto_PGPI/blob/main/Im%C3%A1genes/38.jpg)
 ![39](https://github.com/ETSIIWorkgroup/Proyecto_PGPI/blob/main/Im%C3%A1genes/39.jpg)
 ![40](https://github.com/ETSIIWorkgroup/Proyecto_PGPI/blob/main/Im%C3%A1genes/40.jpg)
-![41](https://github.com/ETSIIWorkgroup/Proyecto_PGPI/blob/main/Im%C3%A1genes/41.jpg)
