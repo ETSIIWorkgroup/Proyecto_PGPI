@@ -1,0 +1,15 @@
+76 mod 30 = 16 + 1 = 17 Diciembre 2021
+
+Antes de modificar:
+
+· Fecha de terminación: Martes 11/01/2022
+· Duración / Trabajo: 17,5 días / 192 horas
+· Costo: 11.112,40€ 
+
+Después de modificar:
+
+· La duración de la tarea pasa a ser 24 horas
+· El costo pasa a ser 11.132,40€
+
+· Tras la segunda modificación el costo pasa a ser 12.012,40€
+
