@@ -1,0 +1,32 @@
+76 mod 30 = 16 + 1 = 17 Enero 2022
+
+1. Se ha sabido que la Tarea 6 no podrá comenzar hasta 6 días después de que comience la  Tarea 5. Realícese el cambio. ¿Cómo afecta esto a la ruta crítica?  
+ 
+-> El recurso R1 que antes no era parte de la ruta crítica en la fase 2, pasa a ser parte de la ruta crítica en la fase 2 junsto a R2 y R3.
+
+2. La  Tarea  6  va  a  ser  realizada  también  por  el  recurso  R2  a  media  jornada,  manteniendo  el  trabajo  total  de  la tarea. ¿Cuánto dura ahora la tarea? ¿Ha cambiado la cantidad de trabajo que  realizará el recurso R3 en la tarea? 
+
+-> La tarea dura 5 días mientras que R3 pasa de 40 horas a 20 horas.
+
+3. Asignar  el  recurso  R3  a  la  Tarea  5,  de  manera  que  se  mantenga  la  duración  de  la  tarea  y  el  trabajo  total realizado. 
+
+-> Se adjunta captura para este ejercicio.
+
+4. Asignar el recurso R2 a media jornada a la Tarea 4, de manera que se mantenga el trabajo total de la tarea. ¿Por qué no se produce sobreasignación del recurso R2 en las Tareas 4 y 5? 
+
+-> No se sobreasigna ya que la tarea 5 divide su trabajo entre dos recursos, por lo que en la práctica, el recurso 2 trabaja a media jornada, sabemos esto ya que la tarea 5 no cambia su duración.
+ 
+5. Considerando la Tarea 1 como tarea de unidades fijas, se ve que la tarea finalmente va a necesitar más trabajo, por lo que se pide asignar los recursos R2 y R3 trabajando a tiempo completo. ¿Cuál es ahora la duración de la tarea? ¿Y el trabajo total de la tarea? 
+
+-> Se mantiene una duración de 10 dias y un trabajo de 80 horas por cada recurso.
+
+6. Aunque  es  necesario  mantener  la  Tarea  2  en  una  duración  de  10  horas,  sin  embargo,  se  ha  detectado  que necesitará más trabajo del previsto inicialmente, por lo que se le debe asignar 5h de trabajo del recurso R1 (sin que se modifique la duración). ¿Cuánto es ahora el trabajo total que requiere la tarea? 
+
+-> El trabajo ahora es de 15 horas totales.
+
+7. Por último se pide comparar el proyecto actual con respecto al guardado en la línea de base. ¿Qué tareas varían en su comienzo y fin con respecto a la línea de base? ¿En cuánto ha variado la duración? ¿En cuánto el trabajo total del proyecto? ¿En cuánto ha variado el coste? 
+
+-> La tarea 4 modifica su fecha de fin mientras que la tarea 6 modifica su fecha de comienzo y fin.
+-> La duración pasa de 21,25 días a 24,25 días.
+-> El trabajo pasa de 212 horas a 377 horas.
+-> El coste pasa de 11.812,40€ a 19.411,40€.
